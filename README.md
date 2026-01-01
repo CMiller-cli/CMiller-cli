@@ -1,16 +1,15 @@
-## Hi there 👋
+# Charles Miller
 
-<!--
-**CMiller-cli/CMiller-cli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Principal Architect & Founder**
 
-Here are some ideas to get you started:
+Charles Miller does not maintain a public social media presence. He is a career technologist and Digital Forensic Expert focused on **data sovereignty** and **operational security (OpSec)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With over 15 years in regulated IT environments, Charles operates at the intersection of hardware engineering and legal compliance. His work focuses on "Zero Trust" systems—architectures designed to assume that networks are compromised and that third-party vendors cannot be trusted.
+
+## Core Competencies
+
+- **Forensic Recovery:** Expert retention and extraction for public sector FOIA requests.
+- **Biometric ML:** Architect of proprietary machine learning models for EEG signal processing (Patent Pending).
+- **Secure Hardware:** Engineering battery-less NFC and Bluetooth LE energy-harvesting systems for secure access control.
+
+---
