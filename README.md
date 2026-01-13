@@ -1,15 +1,16 @@
 # Charles Miller
 
 **Principal Architect & Founder**
+Security-focused systems engineer working at the intersection of digital forensics, privacy, and regulated infrastructure.
 
-Charles Miller does not maintain a public social media presence. He is a career technologist and Digital Forensic Expert focused on **data sovereignty** and **operational security (OpSec)**.
+I design and build software for environments where data sensitivity, operational integrity, and trust boundaries matter. My work emphasizes Zero Trust principles, minimal data exposure, and defensible system behavior under scrutiny.
 
-With over 15 years in regulated IT environments, Charles operates at the intersection of hardware engineering and legal compliance. His work focuses on "Zero Trust" systems—architectures designed to assume that networks are compromised and that third-party vendors cannot be trusted.
-
-## Core Competencies
-
-- **Forensic Recovery:** Expert retention and extraction for public sector FOIA requests.
-- **Biometric ML:** Architect of proprietary machine learning models for EEG signal processing (Patent Pending).
-- **Secure Hardware:** Engineering battery-less NFC and Bluetooth LE energy-harvesting systems for secure access control.
+### Areas of Focus
+- **Digital Forensics & Records Compliance**: Data retention, extraction, and analysis workflows in regulated environments
+- **Secure Systems Architecture**: Zero Trust design, least-privilege access models, and threat-aware architecture
+- **Supply-Chain & Release Engineering**: CI/CD pipelines for signed native libraries (.so / .a)
+- **HIPAA-Aligned Cloud Infrastructure**: Secure cloud architectures for sensitive data workflows
+- **Applied Security Engineering**: Practical offensive testing (protocol analysis, binary reversing, runtime inspection)
 
 ---
+
