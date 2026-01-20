@@ -1,6 +1,5 @@
 # Charles Miller
 
-**Person**
 Security-focused systems ic working in digital forensics, privacy, and regulated infrastructure.
 
 ### Areas of Focus
